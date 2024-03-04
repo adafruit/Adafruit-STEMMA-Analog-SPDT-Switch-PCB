@@ -1,6 +1,6 @@
 ## Adafruit STEMMA Analog SPDT Switch - MAX4544 12V - JST PH 2mm PCB
 
-<a href="http://www.adafruit.com/products/5892"><img src="assets/5892.jpg?raw=true" width="500px"><br/>
+<a href="http://www.adafruit.com/products/5892"><img src="assets/5892-01.jpg?raw=true" width="500px"><br/>
 Click here to purchase one from the Adafruit shop</a>
 
 PCB files for the Adafruit STEMMA Analog SPDT Switch - MAX4544 12V - JST PH 2mm. 
